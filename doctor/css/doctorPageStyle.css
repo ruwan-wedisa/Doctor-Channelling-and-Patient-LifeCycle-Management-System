@@ -1,0 +1,30 @@
+/* 
+    Created on : Mar 20, 2018, 9:39:23 AM
+    Author     : Imthath
+*/
+body{
+    background-color: #F0F2F5;
+    font-family: 'Playfair Display', serif;
+}
+#desc1{
+    margin-top: 5px;    
+}
+#subdesc1{
+    background-color: #4D8BD9;
+    padding: 10px; 
+}
+#subdesc1 label{
+    color: #fff;
+}
+#subdesc2{
+    background-color: #563D7C;
+}
+#dctrimg{
+    width: 100%;
+}
+#AddDoctorForm{
+    background-color: #f2efef;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

@@ -1,0 +1,121 @@
+/* 
+    Created on : Oct 14, 2017, 12:08:29 AM
+    Author     : IMTHATH
+*/
+.navbar-inverse{
+    background-color: #094499;
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+    background-color: #F22006;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+    background-color: #F22006;
+}
+.dropdown-menu>li>a:hover{
+    color:#fff;
+    background-color: #F22006;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color:#fff;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+    background-color:#F22006;
+}
+.navbar-inverse .navbar-brand{
+    color: #fff;
+}
+.navbar-inverse .navbar-brand>a:hover{
+    color: #F22006;
+}
+.panel-primary>.panel-heading{
+    background-color: #094499;
+    border-color: #094499;
+}
+.panel-danger>.panel-heading{
+    color: #fff;
+    background-color: #F22006;
+    border-color: #F22006;
+}
+body{
+    background-image: url("../images/bgImg.png");
+}
+#container{
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 55px;
+}
+#directorImg{
+    width: 100px;
+}
+#welcomeInfo{
+    background: #fff;
+    border-left: 5px #337AB7 solid;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+#welcomeInfo h2{
+    color: #337AB7;
+}
+#welcomeInfo h4{
+    color: #337AB7;
+}
+#dowloadUpload{
+    margin: 20px auto;
+    width: 50%;
+
+}
+.loginDiv{
+    background-color: #002c46;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 5px;
+    border-radius: 7px;
+}
+.loginDiv h3{
+    text-align: center;
+}
+.newsImg{
+    width: 50px;
+}
+.footer-bottom {
+    background-color: #094499;
+        border: 1px solid #094499;
+    min-height: 30px;
+    width: 100%;
+}
+.panel-success>.panel-heading {
+    color: #fff;
+    background-color: #449D44;
+    border-color: #449D44;
+}
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+.design {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    text-align: right;
+}
+.design a {
+    color: #fff;
+}
+#complain{
+    width: 50%;
+    margin: 20px auto;
+}
+.alert-danger {
+    color: #F22006;
+    background-color: #f2dede;
+    border-color: #F22006;
+    text-align: center;
+    display:none; 
+}
+
+
